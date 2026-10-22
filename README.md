@@ -8,9 +8,9 @@ commits, pull requests y revisión del trabajo de otra persona.
 
 Completen sus nombres antes de comenzar. Si el grupo es de tres, dejen el cuarto espacio sin completar.
 
-- Integrante 1: 
-- Integrante 2: 
-- Integrante 3: 
+- Integrante 1: Jeremy Thorp
+- Integrante 2: Jheyson Araúz
+- Integrante 3: Miguel Saldaña
 - Integrante 4: 
 
 ## Abre y ejecuta el proyecto
