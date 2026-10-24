@@ -14,8 +14,7 @@ public class Program
 
         while (continuar)
         {
-            Console.WriteLine();
-            Console.WriteLine("MIS PENDIENTES");
+            Console.WriteLine("MIS PENDIENTES - MIGUEL");
             Console.WriteLine("1. Agregar un pendiente");
             Console.WriteLine("2. Ver los pendientes");
             Console.WriteLine("3. Marcar un pendiente como completado");
