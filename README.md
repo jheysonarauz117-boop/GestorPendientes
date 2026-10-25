@@ -50,6 +50,13 @@ solo durante la ejecución; al reiniciar se cargan nuevamente los ejemplos.
 | Completar | `CompletarPendiente.cs` | Solicitar identificador, manejar entradas incorrectas y objetos inexistentes; completar solo el elegido o informar si ya estaba completado. |
 | Eliminar | `EliminarPendiente.cs` | Solicitar identificador, manejar entradas incorrectas y objetos inexistentes; mostrar el objeto, pedir confirmación y eliminar solo al confirmar. |
 
+## Reparto del grupo
+
+- Agregar (`AgregarPendiente.cs`): Miguel Saldaña
+- Listar (`ListarPendientes.cs`): Jheyson Araúz
+- Completar (`CompletarPendiente.cs`): Jeremy Thorp
+- Eliminar (`EliminarPendiente.cs`): conserva su mensaje inicial
+
 En grupos de cuatro, repartan las cuatro operaciones. En el grupo de tres,
 repartan agregar, listar y completar; eliminar puede conservar su mensaje
 inicial. Registren el reparto en este documento.
